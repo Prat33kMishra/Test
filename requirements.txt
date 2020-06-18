@@ -1,2 +1,11 @@
-gunicorn==20.0.4
-
+gunicorn
+Click
+fastapi
+gunicorn
+h11
+httptools
+pydantic
+starlette
+uvicorn
+uvloop
+websockets
